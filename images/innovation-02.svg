@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.90401in" height="1.90401in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 381.12 381.12"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:6.67;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str1 {stroke:#FEFEFE;stroke-width:6.67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil1 {fill:none}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="190.56" y1="381.12" x2="190.56" y2="0">
+   <stop offset="0" style="stop-opacity:1; stop-color:#53BD58"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ADDFD5"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1777322335952">
+   <rect class="fil0" width="381.12" height="381.12" rx="40.35" ry="40.35"/>
+   <g>
+    <path class="fil1 str0" d="M91.87 294.79l26.61 0c2.21,0 4.02,-1.81 4.02,-4.02l0 -64.97c0,-2.21 -1.81,-4.01 -4.02,-4.01l-26.61 0"/>
+    <path class="fil1 str0" d="M122.86 284.57l13.14 0 47.81 17.15c8.03,3.06 16.25,3.06 24.09,0l76.65 -39.05c8.72,-4.31 5.39,-22.4 -10.59,-17.52l-45.85 15.17"/>
+    <path class="fil1 str0" d="M172.49 273.62c0.41,-3.63 3.32,-7.46 9.85,-8.03l36.13 0c13.41,0.6 15.33,-20.14 0,-20.8l-31.39 0 -33.94 -12.41 -31.02 0"/>
+    <path class="fil1 str0" d="M169.57 237.85c2.01,-0.89 4.02,-1.79 6.03,-2.68 5.2,-2.31 4.75,-1.49 10.36,-0.23l2.67 0.6c3.86,1.14 7.16,-0.28 10,-3.73 8.71,-14.13 24.9,-10.85 31.16,-8.93 6.41,14.09 22.01,18.23 28.99,27.34"/>
+    <path class="fil1 str0" d="M219.42 220.73c1.16,-24.03 -15.03,-27.16 -16.63,-47.84"/>
+    <path class="fil1 str0" d="M236.37 169.96c-12.34,4.16 -19.14,12.48 -14.66,29.27 13.58,-5.68 17.91,-15.7 14.66,-29.27z"/>
+    <path class="fil1 str0" d="M211.24 210.17c-5.79,-11.67 -14.96,-17.28 -30.98,-10.56 7.47,12.68 17.98,15.62 30.98,10.56z"/>
+    <circle class="fil1 str0" cx="188.84" cy="127.31" r="50.21"/>
+    <g>
+     <path class="fil1 str1" d="M181.61 99.96c7.16,0.3 12.81,6.19 12.81,13.36 0,7.25 -5.78,13.18 -13.03,13.37"/>
+     <line class="fil1 str1" x1="172.84" y1="99.95" x2="205.71" y2= "99.95" />
+     <line class="fil1 str1" x1="172.84" y1="111.6" x2="205.71" y2= "111.6" />
+     <line class="fil1 str1" x1="195.69" y1="155.66" x2="174.61" y2= "126.69" />
+     <line class="fil1 str1" x1="181.39" y1="126.69" x2="174.61" y2= "126.69" />
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
